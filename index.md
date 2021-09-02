@@ -14,8 +14,6 @@ Ik hou er van om dingen vanuit het niets op te bouwen, een uitdaging aan te gaan
 - *Low-code*
 - *Java*
 - *JavaScript*
-- *NodeJS*
-- *SQL*
 - *HTML*
 - *CSS*     
 
@@ -39,6 +37,10 @@ Ik hou er van om dingen vanuit het niets op te bouwen, een uitdaging aan te gaan
 | ------------------ | -------------------- |
 | Git                | Cool                 |
 | Github             |                      |
+| Java               |                      |
+| JavaScript         |                      |
+| Github             |                      |
+
 
 
 ## Certification
