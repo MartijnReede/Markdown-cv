@@ -37,16 +37,16 @@ Ik hou er van om dingen vanuit het niets op te bouwen, een uitdaging aan te gaan
 | ------------------ | -------------------- |
 | Git                | Klantgericht         |
 | Github             | Stressbestendig      |
-| Java               | Oplossingsgericht    |
-| JavaScript         | Leergierig           |
-| Github             |                      |
-
-
+| Java / Spring Boot | Oplossingsgericht    |
+| JavaScript / NodeJS| Leergierig           |
+| HTML               |                      |
+| CSS                |                      |
+| SQL                |                      |
 
 ## Diploma's
 
-`2021`
-2014 - HBO, Media & Entertainment Management, Hogeschool Inholland. 
+`2014`
+HBO, Media & Entertainment Management, Hogeschool Inholland. 
 
 ## Talen
 - Nederlands

@@ -6,7 +6,7 @@ markdown: kramdown
 
 footer: yes
 footer_url: ""
-footer_text: "Last updated: June 2021"
+footer_text: "Last updated: September 2021"
 
 sass:
     style: compressed
