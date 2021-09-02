@@ -20,7 +20,7 @@ Ik hou er van om dingen vanuit het niets op te bouwen, een uitdaging aan te gaan
 - *HTML*
 - *CSS*     
 
-## Opleidingen
+## Werkervaring
 
 `2018 - 2019`
 **Project manager B2B**, *Radion Amsterdam.*
