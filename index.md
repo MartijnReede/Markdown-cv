@@ -23,10 +23,13 @@ Ik hou er van om dingen vanuit het niets op te bouwen, een uitdaging aan te gaan
 
 `2018 - 2019`
 **Project manager B2B**, *Organisator van zakelijke evenementen bij Radion Amsterdam.*
+
 `2014 - 2018`
 **Club manager**, *Nachtclub manager bij Radion Amsterdam.*
+
 `2011 - 2013`
 **Mede-eigenaar**, *Mede-eigenaar van stichting KNUS events, organisator van clubnachten en festivals in en rondom Amsterdam.*
+
 `2005 - 2014`
 **Bijbanen**, *Horeca, DJ, LED-verlichting techniek en zeilleraar.*   
 
