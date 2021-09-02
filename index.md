@@ -39,7 +39,7 @@ Ik hou er van om dingen vanuit het niets op te bouwen, een uitdaging aan te gaan
 | Github             | Stressbestendig      |
 | Java / Spring Boot | Oplossingsgericht    |
 | JavaScript / NodeJS| Leergierig           |
-| HTML               |                      |
+| HTML               | Leiding geven        |
 | CSS                |                      |
 | SQL                |                      |
 
